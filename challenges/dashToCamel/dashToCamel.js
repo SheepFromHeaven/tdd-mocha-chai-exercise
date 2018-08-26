@@ -1,3 +1,3 @@
-module.exports = function(dash){
-  return '';
+module.exports = function (dash) {
+  return dash;
 };
